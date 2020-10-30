@@ -3,12 +3,11 @@ Home Loan Classification application with Django and ReactJS
 
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Framework](https://img.shields.io/badge/Django-Flask-red)
-![Frontend](https://img.shields.io/badge/Django-green)
-![Deployment](https://img.shields.io/badge/Heroku/gunicorn-blueviolet)
+![Backend](https://img.shields.io/badge/Django-green)
+![Frontend](https://img.shields.io/badge/ReactJS-yellow)
 
 
-![image info]()
+![image info](capture.PNG)
 
 ---
 
@@ -70,7 +69,7 @@ Home Loan Classification application with Django and ReactJS
 ---
 ## Bug or Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/achafi/Covid19Detector/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/achafi/HomeLoanClassificationAPP/issues) here by including your search query and the expected result
 
 <br>
 
